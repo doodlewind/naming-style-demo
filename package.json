@@ -1,12 +1,9 @@
 {
   "scripts": {
-    "dev-local": "cross-env NODE_ENV=development webpack --config build/config.js --watch --hide-modules",
-    "pre-server": "cross-env NODE_ENV=development webpack --config build/config.js --hide-modules",
-    "dev": "npm run pre-server && webpack-dev-server --config build/config.js --hot --inline  --host 0.0.0.0",
+    "dev": "cross-env NODE_ENV=development webpack --config build/config.js --watch --hide-modules",
     "build": "cross-env NODE_ENV=production webpack --config build/config.js --progress --hide-modules"
   },
   "devDependencies": {
-    "angular": "^1.6.5",
     "babel-core": "^6.0.0",
     "babel-loader": "^6.0.0",
     "babel-plugin-external-helpers": "^6.0.0",
