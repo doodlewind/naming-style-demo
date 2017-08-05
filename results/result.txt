@@ -1,47 +1,47 @@
-➜  test node analyse vue@2.4.1 vue@2.4.2
+➜ node analyse vue@2.4.1 vue@2.4.2
 0.9436438155995188
 
-➜  test node analyse vue@2.0.0 vue@2.4.2
+➜ node analyse vue@2.0.0 vue@2.4.2
 0.8838059164881868
 
-➜  test node analyse vue@2.0.0 vue@1.0.28
+➜ node analyse vue@2.0.0 vue@1.0.28
 0.5883193867742227
 
-➜  test node analyse vue@0.6.0 vue@1.0.28
+➜ node analyse vue@0.6.0 vue@1.0.28
 0.453068670032456
 
-➜  test node analyse vue@2.0.0 vue@0.6.0 
+➜ node analyse vue@2.0.0 vue@0.6.0 
 0.4249847910671718
 
-➜  test node analyse vue@2.4.2 angular@4.3.3
+➜ node analyse vue@2.4.2 angular@4.3.3
 0.19322280449484375
 
-➜  test node analyse vue@0.6.0 angular@1.2.32
+➜ node analyse vue@0.6.0 angular@1.2.32
 0.294527560626686
 
-➜  test node analyse jquery zepto
+➜ node analyse jquery zepto
 0.25994377334635854
 
-➜  test node analyse react preact
+➜ node analyse react preact
 0.14657572619321152
 
-➜  test node analyse vue@2.4.2 react 
+➜ node analyse vue@2.4.2 react 
 0.27592736925848194
 
-➜  test node analyse angular@1.6.5 angular@1.2.32
+➜ node analyse angular@1.6.5 angular@1.2.32
 0.731867996669048
 
-➜  test node analyse angular@4.3.3 angular@1.2.32
+➜ node analyse angular@4.3.3 angular@1.2.32
 0.18694598321559042
 
-➜  test node analyse jquery angular@1.2.32
+➜ node analyse jquery angular@1.2.32
 0.2508302720623658
 
-➜  test node analyse jquery angular@1.6.5 
+➜ node analyse jquery angular@1.6.5 
 0.2779198421708217
 
-➜  test node analyse jquery angular@4.3.3
+➜ node analyse jquery angular@4.3.3
 0.10005331048087893
 
-➜  test node analyse jquery react        
+➜ node analyse jquery react        
 0.1007248324385447
